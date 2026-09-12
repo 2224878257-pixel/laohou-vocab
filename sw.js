@@ -1,1 +1,1 @@
-const C='laohou-vocab-v4';self.addEventListener('fetch',e=>{});
+self.addEventListener('fetch',e=>{});
