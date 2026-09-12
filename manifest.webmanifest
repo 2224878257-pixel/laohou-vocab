@@ -4,6 +4,5 @@
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f6f7fb",
-  "theme_color": "#ffffff",
-  "description": "老侯个人场景英语学习工具"
+  "theme_color": "#ffffff"
 }
